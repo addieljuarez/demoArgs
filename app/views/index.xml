@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		<TextField id='texto'></TextField>
+		<Button id='envio'></Button>
+	</Window>
+</Alloy>

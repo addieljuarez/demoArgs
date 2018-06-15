@@ -1,0 +1,8 @@
+<Alloy>
+    <Window class='container' backgroundColor='gray'>
+        <Label id='texto2' class='texto'></Label>
+        <TextField id='campo2' class='campo'></TextField>
+        <Button id='boton2' class='boton'></Button>
+        <Button id='botonCerrar' top='250' height='50' width='80%' title='cerrar'></Button>
+    </Window>
+</Alloy>
